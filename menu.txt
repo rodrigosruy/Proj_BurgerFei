@@ -1,0 +1,28 @@
+1
+X-salada
+R$
+10.00
+2
+X-burger
+R$
+10.00
+3
+Cachorro quente
+R$
+7.50
+4
+Misto quente
+R$
+8.00
+5
+Salada de frutas
+R$
+5.50
+6
+Refrigerante
+R$
+4.50
+7
+Suco natural
+R$
+6.25
